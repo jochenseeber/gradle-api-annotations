@@ -1,0 +1,4 @@
+class org/gradle/api/internal/file/copy/DefaultCopySpec
+getChildren
+ ()Ljava/lang/Iterable<Lorg/gradle/api/internal/file/copy/CopySpecInternal;>;
+ ()Ljava/lang/Iterable<L1org/gradle/api/internal/file/copy/CopySpecInternal;>;

@@ -1,0 +1,4 @@
+class org/gradle/api/NamedDomainObjectCollection
+findByName
+ (Ljava/lang/String;)TT;
+ (Ljava/lang/String;)T0T;

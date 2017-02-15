@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/Dependency
+ARCHIVES_CONFIGURATION
+ Ljava/lang/String;
+ L1java/lang/String;

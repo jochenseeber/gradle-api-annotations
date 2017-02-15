@@ -1,0 +1,4 @@
+class org/gradle/api/file/FileTree
+getAsFileTree
+ ()Lorg/gradle/api/file/FileTree;
+ ()L1org/gradle/api/file/FileTree;

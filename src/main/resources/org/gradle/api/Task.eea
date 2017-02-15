@@ -1,0 +1,4 @@
+class org/gradle/api/Task
+getProject
+ ()Lorg/gradle/api/Project;
+ ()L1org/gradle/api/Project;

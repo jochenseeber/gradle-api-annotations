@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/DependencySet
+super org/gradle/api/DomainObjectSet
+ <Lorg/gradle/api/artifacts/Dependency;>
+ <L1org/gradle/api/artifacts/Dependency;>

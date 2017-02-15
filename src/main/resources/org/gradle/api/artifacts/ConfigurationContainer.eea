@@ -1,0 +1,7 @@
+class org/gradle/api/artifacts/ConfigurationContainer
+super org/gradle/api/NamedDomainObjectContainer
+ <Lorg/gradle/api/artifacts/Configuration;>
+ <L1org/gradle/api/artifacts/Configuration;>
+getByName
+ (Ljava/lang/String;)Lorg/gradle/api/artifacts/Configuration;
+ (Ljava/lang/String;)L1org/gradle/api/artifacts/Configuration;

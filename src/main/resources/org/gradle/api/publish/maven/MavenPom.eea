@@ -1,0 +1,4 @@
+class org/gradle/api/publish/maven/MavenPom
+withXml
+ (Lorg/gradle/api/Action<-Lorg/gradle/api/XmlProvider;>;)V
+ (L1org/gradle/api/Action<-Lorg/gradle/api/XmlProvider;>;)V

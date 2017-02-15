@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/DependencySubstitution
+getRequested
+ ()Lorg/gradle/api/artifacts/component/ComponentSelector;
+ ()L1org/gradle/api/artifacts/component/ComponentSelector;

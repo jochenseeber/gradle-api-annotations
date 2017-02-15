@@ -1,0 +1,4 @@
+class org/gradle/api/file/FileCollection
+getFiles
+ ()Ljava/util/Set<Ljava/io/File;>;
+ ()Ljava/util/Set<L1java/io/File;>;

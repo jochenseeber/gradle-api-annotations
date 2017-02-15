@@ -1,0 +1,4 @@
+class org/gradle/util/VersionNumber
+parse
+ (Ljava/lang/String;)Lorg/gradle/util/VersionNumber;
+ (Ljava/lang/String;)L1org/gradle/util/VersionNumber;

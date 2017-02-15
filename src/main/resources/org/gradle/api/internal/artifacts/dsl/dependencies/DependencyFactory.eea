@@ -1,0 +1,4 @@
+class org/gradle/api/internal/artifacts/dsl/dependencies/DependencyFactory
+createProjectDependencyFromMap
+ (Lorg/gradle/api/internal/artifacts/dsl/dependencies/ProjectFinder;Ljava/util/Map<+Ljava/lang/String;+Ljava/lang/Object;>;)Lorg/gradle/api/artifacts/ProjectDependency;
+ (Lorg/gradle/api/internal/artifacts/dsl/dependencies/ProjectFinder;Ljava/util/Map<+Ljava/lang/String;+Ljava/lang/Object;>;)L1org/gradle/api/artifacts/ProjectDependency;

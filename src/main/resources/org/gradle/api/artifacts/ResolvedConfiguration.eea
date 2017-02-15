@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/ResolvedConfiguration
+getResolvedArtifacts
+ ()Ljava/util/Set<Lorg/gradle/api/artifacts/ResolvedArtifact;>;
+ ()L1java/util/Set<L1org/gradle/api/artifacts/ResolvedArtifact;>;

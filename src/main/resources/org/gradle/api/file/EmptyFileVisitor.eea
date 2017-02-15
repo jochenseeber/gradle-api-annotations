@@ -1,0 +1,7 @@
+class org/gradle/api/file/EmptyFileVisitor
+visitDir
+ (Lorg/gradle/api/file/FileVisitDetails;)V
+ (L1org/gradle/api/file/FileVisitDetails;)V
+visitFile
+ (Lorg/gradle/api/file/FileVisitDetails;)V
+ (L1org/gradle/api/file/FileVisitDetails;)V

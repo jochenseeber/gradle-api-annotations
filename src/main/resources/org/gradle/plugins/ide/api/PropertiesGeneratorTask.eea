@@ -1,0 +1,4 @@
+class org/gradle/plugins/ide/api/PropertiesGeneratorTask
+getTransformer
+ ()Lorg/gradle/api/internal/PropertiesTransformer;
+ ()L1org/gradle/api/internal/PropertiesTransformer;

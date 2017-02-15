@@ -1,0 +1,4 @@
+class org/gradle/api/Plugin
+apply
+ (TT;)V
+ (T1T;)V

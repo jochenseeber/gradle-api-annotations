@@ -1,0 +1,4 @@
+class org/gradle/model/internal/registry/ModelRegistry
+find
+ <T:Ljava/lang/Object;>(Ljava/lang/String;Ljava/lang/Class<TT;>;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/String;Ljava/lang/Class<TT;>;)T0T;

@@ -1,0 +1,4 @@
+class org/gradle/api/NamedDomainObjectFactory
+create
+ (Ljava/lang/String;)TT;
+ (L1java/lang/String;)TT;

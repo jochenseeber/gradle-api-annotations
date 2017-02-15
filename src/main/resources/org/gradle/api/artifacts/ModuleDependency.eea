@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/ModuleDependency
+getArtifacts
+ ()Ljava/util/Set<Lorg/gradle/api/artifacts/DependencyArtifact;>;
+ ()L1java/util/Set<Lorg/gradle/api/artifacts/DependencyArtifact;>;

@@ -1,0 +1,7 @@
+class org/gradle/api/logging/Logging
+getLogger
+ (Ljava/lang/Class;)Lorg/gradle/api/logging/Logger;
+ (Ljava/lang/Class;)L1org/gradle/api/logging/Logger;
+getLogger
+ (Ljava/lang/String;)Lorg/gradle/api/logging/Logger;
+ (Ljava/lang/String;)L1org/gradle/api/logging/Logger;

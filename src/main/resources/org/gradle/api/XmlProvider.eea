@@ -1,0 +1,4 @@
+class org/gradle/api/XmlProvider
+asElement
+ ()Lorg/w3c/dom/Element;
+ ()L1org/w3c/dom/Element;

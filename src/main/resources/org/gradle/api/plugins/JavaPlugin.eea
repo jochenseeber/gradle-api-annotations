@@ -1,0 +1,7 @@
+class org/gradle/api/plugins/JavaPlugin
+COMPILE_CONFIGURATION_NAME
+ Ljava/lang/String;
+ L1java/lang/String;
+RUNTIME_CONFIGURATION_NAME
+ Ljava/lang/String;
+ L1java/lang/String;

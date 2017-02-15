@@ -1,0 +1,7 @@
+class org/gradle/api/internal/file/SourceDirectorySetFactory
+create
+ (Ljava/lang/String;)Lorg/gradle/api/internal/file/DefaultSourceDirectorySet;
+ (Ljava/lang/String;)L1org/gradle/api/internal/file/DefaultSourceDirectorySet;
+create
+ (Ljava/lang/String;Ljava/lang/String;)Lorg/gradle/api/internal/file/DefaultSourceDirectorySet;
+ (Ljava/lang/String;Ljava/lang/String;)L1org/gradle/api/internal/file/DefaultSourceDirectorySet;

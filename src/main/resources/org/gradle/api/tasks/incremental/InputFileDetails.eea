@@ -1,0 +1,4 @@
+class org/gradle/api/tasks/incremental/InputFileDetails
+getFile
+ ()Ljava/io/File;
+ ()L1java/io/File;

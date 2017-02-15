@@ -1,0 +1,10 @@
+class org/gradle/api/Project
+file
+ (Ljava/lang/Object;)Ljava/io/File;
+ (Ljava/lang/Object;)L1java/io/File;
+getAllprojects
+ ()Ljava/util/Set<Lorg/gradle/api/Project;>;
+ ()L1java/util/Set<L1org/gradle/api/Project;>;
+getConfigurations
+ ()Lorg/gradle/api/artifacts/ConfigurationContainer;
+ ()L1org/gradle/api/artifacts/ConfigurationContainer;

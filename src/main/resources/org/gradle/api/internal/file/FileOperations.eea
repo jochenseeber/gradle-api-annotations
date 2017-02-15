@@ -1,0 +1,4 @@
+class org/gradle/api/internal/file/FileOperations
+copySpec
+ ()Lorg/gradle/api/file/CopySpec;
+ ()L1org/gradle/api/file/CopySpec;

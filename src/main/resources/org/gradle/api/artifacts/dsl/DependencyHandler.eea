@@ -1,0 +1,7 @@
+class org/gradle/api/artifacts/dsl/DependencyHandler
+create
+ (Ljava/lang/Object;)Lorg/gradle/api/artifacts/Dependency;
+ (Ljava/lang/Object;)L1org/gradle/api/artifacts/Dependency;
+project
+ (Ljava/util/Map<Ljava/lang/String;*>;)Lorg/gradle/api/artifacts/Dependency;
+ (Ljava/util/Map<Ljava/lang/String;*>;)L1org/gradle/api/artifacts/Dependency;

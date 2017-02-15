@@ -1,0 +1,4 @@
+class org/gradle/api/plugins/Convention
+getPlugin
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)TT;
+ <T:Ljava/lang/Object;>(Ljava/lang/Class<TT;>;)T1T;

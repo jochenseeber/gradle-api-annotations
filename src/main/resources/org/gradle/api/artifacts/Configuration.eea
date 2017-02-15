@@ -1,0 +1,7 @@
+class org/gradle/api/artifacts/Configuration
+getAllArtifacts
+ ()Lorg/gradle/api/artifacts/PublishArtifactSet;
+ ()L1org/gradle/api/artifacts/PublishArtifactSet;
+getResolvedConfiguration
+ ()Lorg/gradle/api/artifacts/ResolvedConfiguration;
+ ()L1org/gradle/api/artifacts/ResolvedConfiguration;

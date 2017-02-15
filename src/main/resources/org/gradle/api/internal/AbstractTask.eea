@@ -1,0 +1,4 @@
+class org/gradle/api/internal/AbstractTask
+doFirst
+ (Lorg/gradle/api/Action<-Lorg/gradle/api/Task;>;)Lorg/gradle/api/Task;
+ (L1org/gradle/api/Action<-1Lorg/gradle/api/Task;>;)Lorg/gradle/api/Task;

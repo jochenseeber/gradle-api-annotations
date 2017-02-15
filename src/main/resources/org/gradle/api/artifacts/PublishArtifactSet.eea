@@ -1,0 +1,7 @@
+class org/gradle/api/artifacts/PublishArtifactSet
+super org/gradle/api/DomainObjectSet
+ <Lorg/gradle/api/artifacts/PublishArtifact;>
+ <L1org/gradle/api/artifacts/PublishArtifact;>
+getFiles
+ ()Lorg/gradle/api/file/FileCollection;
+ ()L1org/gradle/api/file/FileCollection;
