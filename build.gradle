@@ -14,7 +14,7 @@ buildscript {
     }
 }
 
-version = "3.1-r.2"
+version = "3.1-r.3"
 group = "me.seeber.annotations"
 description = "External annotations for Gradle 3.0"
 
