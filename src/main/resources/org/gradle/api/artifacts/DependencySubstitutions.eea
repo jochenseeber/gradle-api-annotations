@@ -1,0 +1,4 @@
+class org/gradle/api/artifacts/DependencySubstitutions
+all
+ (Lorg/gradle/api/Action<-Lorg/gradle/api/artifacts/DependencySubstitution;>;)Lorg/gradle/api/artifacts/DependencySubstitutions;
+ (L1org/gradle/api/Action<-Lorg/gradle/api/artifacts/DependencySubstitution;>;)Lorg/gradle/api/artifacts/DependencySubstitutions;
