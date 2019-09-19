@@ -13,5 +13,5 @@ To build the annotations JAR, run
 gradle build
 ```
 
-This will create the file `gradle-api-annotations-3.1-r.2.jar`. Attach this file to the
+This will create the file `gradle-api-annotations-3.1-r.4.jar`. Attach this file to the
 Gradle API library entry in your build path to have Eclipse use the annotations.
